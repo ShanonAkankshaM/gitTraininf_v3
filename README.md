@@ -1,2 +1,2 @@
-# gitTraininf_v3
+# gitTraining_v3
 All masterclass
